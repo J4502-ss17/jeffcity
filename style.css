@@ -29,7 +29,7 @@ body{
 }
 
 .first{
-  border-bottom: 
+  border-bottom:
 }
 
 #nav {
@@ -67,8 +67,9 @@ img {
 #logo {
   color:black;
   font-family: 'Open Sans', "Arial", sans-serif;
-  font-style: italic;
+  font-style: bold;
   background-color:lightgray;
   padding-top: 10px;
+  padding-bottom: 10px;
   text-align:center;
 }
