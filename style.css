@@ -48,7 +48,7 @@ body{
 #nav a:link, a:visited {
 	display:block;
     color: #f1b82d;
-    background-color: darkgray;
+    background-color: #302f2d;
     font-weight: bold;
     text-align:center;
     text-decoration: none;
@@ -73,3 +73,11 @@ img {
   padding-bottom: 10px;
   text-align:center;
 }
+
+#topheadlines {
+  color:black;
+  font-family: 'Open Sans', "Arial", sans-serif;
+  font-style: bold;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align:center;
