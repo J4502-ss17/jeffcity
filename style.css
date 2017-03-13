@@ -10,13 +10,13 @@ h1{
 
 body{
   /*background-color:#ebe3ce;*/
-  margin: 0;
+  margin: 3;
 }
 
 #container{
   width: 95%;
   background-color:#ffffff;
-  margin: 0 auto;
+  margin: 1 auto;
 }
 
 .caption{
@@ -29,15 +29,15 @@ body{
 }
 
 #nav {
-    padding: 0;
+    padding: 1;
 	list-style-type: none;
-  width: 100vw;
-  margin: 0;
+  width: 90vw;
+  margin: 1;
 }
 
 #nav li {
     margin: 0;
-    padding: 0;
+    padding: 1;
 	border-bottom: 1px solid #ccc;
 	text-decoration: none;
 }
