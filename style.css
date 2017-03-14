@@ -1,26 +1,31 @@
 p {
   /*color: #666666;*/
   font-family: 'Noto Serif', "Times New Roman", serif;
+  font-size: 1em;
 }
 
 h1{
   font-family: 'Open Sans', "Arial", sans-serif;
   font-weight: bolder;
+  text-decoration: none;
 }
 
 h2{
   font-family: 'Open Sans', "Arial", sans-serif;
   font-weight: bolder;
+  text-decoration: none;
 }
 
 h3{
   font-family: 'Open Sans', "Arial", sans-serif;
   font-weight: bolder;
+  text-decoration: none;
 }
 
 h5{
   font-family: 'Open Sans', "Arial", sans-serif;
   font-weight: bolder;
+  text-decoration: none;
 }
 
 body{
@@ -102,4 +107,5 @@ img {
   padding-top: 10px;
   padding-bottom: 10px;
   text-align:center;
+  text-decoration: none;
 }
