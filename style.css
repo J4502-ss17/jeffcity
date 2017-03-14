@@ -130,3 +130,13 @@ img {
   text-align:center;
   text-decoration: none;
 }
+
+audio {
+	width: 1000px;
+}
+
+video {
+	padding: 10px;
+	border: 1px solid #ddd;
+	background-color: white;
+}
