@@ -8,24 +8,28 @@ h1{
   font-family: 'Open Sans', "Arial", sans-serif;
   font-weight: bolder;
   text-decoration: none;
+  color: #000000;
 }
 
 h2{
   font-family: 'Open Sans', "Arial", sans-serif;
   font-weight: bolder;
   text-decoration: none;
+  color: #000000;
 }
 
 h3{
   font-family: 'Open Sans', "Arial", sans-serif;
   font-weight: bolder;
   text-decoration: none;
+  color: #000000;
 }
 
 h5{
   font-family: 'Open Sans', "Arial", sans-serif;
   font-weight: bolder;
   text-decoration: none;
+  color: #000000;
 }
 
 body{
@@ -64,6 +68,15 @@ body{
 	border-bottom: 1px solid #ccc;
 	text-decoration: none;
 }
+
+#story1 a:link, a:visited {
+  text-decoration: none;
+}
+
+#story1 a:hover, a:active {
+color: #000000;
+}
+
 
 #nav a:link, a:visited {
 	display:block;
