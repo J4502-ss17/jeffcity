@@ -51,6 +51,14 @@ h5{
   color: #000000;
 }
 
+h6{
+  font-family: 'Open Sans', "Arial", sans-serif;
+  font-weight: bolder;
+  text-decoration: none;
+  color: #000000;
+  font-style: italic;
+}
+
 body{
   /*background-color:#f1b82d; for Mizzou Gold*/
   margin: 0;
