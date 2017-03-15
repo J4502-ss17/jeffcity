@@ -53,10 +53,9 @@ h5{
 
 h6{
   font-family: 'Open Sans', "Arial", sans-serif;
-  font-weight: bolder;
+  font-weight: normal;
   text-decoration: none;
   color: #000000;
-  font-style: italic;
 }
 
 body{
