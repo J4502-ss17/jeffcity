@@ -91,7 +91,7 @@ padding: 0;
 cursor: pointer;
 height: 40px;
 width: 110px;
-font: bold 15px/40px 'Raleway', sans-serif;
+font: bold 15px/40px , sans-serif;
 color: #fff;
 text-transform: uppercase;
 background: #f1b82d;
