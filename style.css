@@ -205,34 +205,43 @@ body{
 color: #000000;
 }
 
-
-#nav{
+nav {
   padding: 0;
-	list-style-type: none;
+  list-style-type: none;
   margin: 0;
 }
 
-#nav li {
+nav ul li {
+    display: block;
     margin: 0;
     padding: 0;
-	border-bottom: 1px solid #f1b82d;
-	text-decoration: none;
+    border-bottom: 1px #f1b82d solid;
 }
 
-#nav a:link, a:visited {
-	display:block;
+nav a {
+    display: block;
     color: #f1b82d;
     background-color: #000000;
     font-weight: bold;
-    text-align:center;
+    text-align: center;
     text-decoration: none;
-    padding: 4px;
     margin-top: 0;
-    font-family: 'Open Sans', Arial, sans-serif;
+    font-family: "Open Sans", Arial, sans-serif;
+    padding: 20px 30px;
 }
 
-#nav a:hover, a:active {
-    background-color: gray;
+/*header {
+    display: flex;
+    flex-flow: row;
+    background-color: #65a8a6;
+    margin: 0;
+    padding: 0 10px;
+}*/
+
+.menu-trigger {
+    order: 1;
+    font-size: 1.75em;
+    width: 2em;
 }
 
 img {
