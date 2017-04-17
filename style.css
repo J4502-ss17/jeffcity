@@ -240,8 +240,6 @@ img {
 }
 
 #logo {
-  display: flex;
-  flex-flow: row;
   color:black;
   font-family: 'Open Sans', "Arial", sans-serif;
   font-style: bold;
