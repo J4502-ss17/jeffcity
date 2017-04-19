@@ -259,7 +259,8 @@ nav a {
 
 nav ul li {
     display: block;
-    border-bottom: 1px #f1b82d solid;
+    border-radius: 1px #f1b82d solid;
+    margin: auto;
 }
 
 nav a {
@@ -295,7 +296,6 @@ header h1 {
 
 nav ul {
     display: none;
-
 }
 
 nav {
