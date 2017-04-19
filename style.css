@@ -44,8 +44,16 @@ img {
 }
 
 .button_box2 {
-margin:100px auto;
+  display: flex;
+  flex-flow: row;
+  /*color: #000000;
+  background-color: #000000;*/
+  margin:10px auto;
 }
+
+/*#buttoncontainer {
+  background-color: black;
+}*/
 /*-------------------------------------*/
 .cf:before, .cf:after{
 content:"";
@@ -63,6 +71,7 @@ zoom:1;
 width: 330px;
 padding: 7px;
 background: black;
+/*color: black;*/
 -moz-border-radius: 10px;
 -webkit-border-radius: 10px;
 border-radius: 10px;
@@ -372,4 +381,8 @@ video {
         order: 2;
     }
 
+    #buttoncontainer {
+      display: flex;
+      order: 3;
+    }
 }
