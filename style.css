@@ -8,21 +8,15 @@ header {
   flex-flow: row;
   margin: 0;
   padding: 0;
-<<<<<<< Updated upstream
   text-align: center;
-=======
-<<<<<<< HEAD
   position: relative;
   font-variant: small-caps;
-=======
   text-align: center;
->>>>>>> origin/master
->>>>>>> Stashed changes
 }
 
 h1{
   font-family: 'Amiri', "Times New Roman", serif;
-  font-size: 3.5em;
+  font-size: 4em;
   font-weight: bolder;
   text-decoration: none;
   color: #000000;
@@ -339,7 +333,8 @@ img {
 
 #logo {
   color:black;
-  font-family: 'Open Sans', "Arial", sans-serif;
+  font-family: 'Open Sans', "Times New Roman", serif;
+  font-size: 3em;
   font-style: bolder;
   margin-left: auto;
   margin-top: auto;
