@@ -326,6 +326,7 @@ header h1 {
 
 nav ul {
     display: none;
+    width:100%;
     margin:0;
     padding:0;
 }
@@ -335,8 +336,9 @@ nav {
   font-size: 1em;
   border: 1px #f1b82d solid;
   text-align: center;
+  width:100%;
   margin: 0;
-  padding: 0px;
+  padding: 0px 2px;
 }
 
 img {
