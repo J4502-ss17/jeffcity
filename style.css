@@ -217,6 +217,36 @@ body{
  margin: 0 auto;
 }
 
+#bottom {
+ display: block;
+ background-color: #000000;
+ border: 1px #f1b82d solid;
+ text-align: center;
+ margin: 0 auto;
+}
+
+#bottom ul li {
+  display: block;
+  border-radius: 0px #f1b82d solid;
+  margin: auto;
+}
+
+#bottom a {
+  display: block;
+    color: #f1b82d;
+    /*background-color: #000000;*/
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 3px;
+    font-family: “Open Sans”, Arial, sans-serif;
+    padding: 7px 7px;
+}
+
+#bottom ul {
+   display: block;
+}
+
 #mediablock{
  width: 80%;
  background-color:#ffffff;
@@ -486,5 +516,9 @@ video {
    #buttoncontainer {
      display: flex;
      order: 3;
+   }
+
+   #bottom{
+     display: block;
    }
 }
