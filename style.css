@@ -285,6 +285,7 @@ color: #000000;
 
 
 .dropbtn {
+  display: flex;
    background-color: black;
    color: white;
    padding: 16px;
@@ -292,7 +293,8 @@ color: #000000;
    border: none;
    cursor: pointer;
     list-style-type: none;
-    width: 100%
+    width: 100%;
+    flex: float;
 }
 
 .dropbtn:hover, .dropbtn:focus {
@@ -309,13 +311,14 @@ color: #000000;
 }
 
 .dropdown {
+  display: flex;
    position: relative;
    display: inline-block;
    text-align: left;
    text-decoration: none;
    list-style-type: none;
    width: 100%;
-
+   flex: float;
 }
 
 .dropdown ul {
