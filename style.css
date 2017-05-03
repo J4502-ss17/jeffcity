@@ -384,6 +384,10 @@ video {
   font-family: 'Amiri', "Arial", sans-serif;
 }
 
+button{
+  display: none;
+}
+
 @media screen and (min-width: 1000px){
 
     nav ul {
@@ -409,5 +413,9 @@ video {
     #buttoncontainer {
       display: flex;
       order: 3;
+    }
+
+    button {
+      display: block;
     }
 }
