@@ -384,7 +384,7 @@ video {
   font-family: 'Amiri', "Arial", sans-serif;
 }
 
-@media screen and (min-width: 700px){
+@media screen and (min-width: 1000px){
 
     nav ul {
         display: flex;
