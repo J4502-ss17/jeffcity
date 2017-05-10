@@ -439,6 +439,7 @@ header h1 {
 }
 
 nav ul {
+<<<<<<< Updated upstream
    display: none;
 }
 
@@ -447,6 +448,26 @@ nav {
  border: 1px #f1b82d solid;
  text-align: center;
  margin: 0 auto;
+=======
+    display: none;
+<<<<<<< HEAD
+=======
+    margin:0;
+    padding:0;
+>>>>>>> parent of bc27daa... some more nav bar
+}
+
+nav {
+  background-color: #000000;
+  border: 1px #f1b82d solid;
+  text-align: center;
+<<<<<<< HEAD
+  margin: 0 auto;
+=======
+  margin: 0;
+  padding: 0px;
+>>>>>>> parent of bc27daa... some more nav bar
+>>>>>>> Stashed changes
 }
 
 img {
