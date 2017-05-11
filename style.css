@@ -15,7 +15,6 @@ header {
  padding: 0;
  text-align: center;
  position: relative;
- font-variant: small-caps;
  text-align: center;
 }
 
@@ -228,8 +227,6 @@ body{
   padding: 0px 0px;
 }
 
-}
-
 #bottom ul li {
   display: block;
       border-radius: 0px #f1b82d solid;
@@ -245,11 +242,11 @@ body{
    text-decoration: none;
    margin-top: 4px;
    font-family: "Open Sans", Arial, sans-serif;
-   padding: 7px 7px;
+   padding: 20px 20px;
 }
 
 #bottom ul {
-   display: block;
+   display: flex;
    width:100%;
  margin:0;
  padding:0;
