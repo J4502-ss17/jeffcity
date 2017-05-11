@@ -549,11 +549,6 @@ video {
      order: 3;
    }
 
-   #bottom {
-     display: block;
-     order: 2;
-   }
-
    #bottom ul {
      border-top: none;
    }
