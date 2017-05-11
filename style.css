@@ -295,7 +295,7 @@ color: #000000;
 .dropbtn {
   display: flex;
    background-color: black;
-   color: white;
+   color: #f1b82d;
    padding: 16px;
    font-size: 16px;
    border: none;
